@@ -18,3 +18,15 @@
   Hi there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+---
+
+### :woman_technologist: About Me :
+My name is Inkindi Mutoni Sabine based in Kigali, Rwanda.
+
+- :telescope: I’m currently being trained in Cloud Computing and my current contents here are about Cloud.
+
+- :seedling: I like to explore contents in tech field.
+
+- :zap: In my free time, I love educating myself about new trends in tech and motivating people on my socials.
+
+- :mailbox: You can easily reach at me on [Email](mailto:inkindisabine@gmail.com) and on my socials: [LinkedIn](https://www.linkedin.com/in/inkindi-mutoni-sabine/) and [Twitter](https://twitter.com/Inkindi_Sabine?t=cAsbnidNN6nII-G5hMPEwA&s=09).
