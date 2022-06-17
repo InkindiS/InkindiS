@@ -30,7 +30,7 @@
   
   My name is <i> Inkindi Mutoni Sabine, </i>
 
-- :telescope: Let's talk about Cloud Computing, Internet of Things and Data Analysis. 
+- :telescope: I have great enthusiasm in Cloud Computing and Internet of Things related projects.
 
 - :seedling: I like to explore contents in tech field.
 
