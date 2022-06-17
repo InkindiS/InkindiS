@@ -30,7 +30,7 @@
   
   My name is <i> Inkindi Mutoni Sabine, </i>
 
-- :telescope: I’m currently being trained in Cloud Computing and my current contents here are about Cloud.
+- :telescope: Let's talk about Cloud Computing, Internet of Things and Data Analysis. 
 
 - :seedling: I like to explore contents in tech field.
 
