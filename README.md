@@ -1,17 +1,17 @@
 
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100"/>
-  <a href="https://www.linkedin.com/in/inkindi-mutoni-sabine/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/Inkindi_Sabine?t=cAsbnidNN6nII-G5hMPEwA&s=09">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
+<!--<div id="header" align="center"> -->
+<!--  <img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100"/> -->
+<!--  <a href="https://www.linkedin.com/in/inkindi-mutoni-sabine/"> -->
+<!--    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> -->
+<!--  </a> -->
+<!--  <a href="https://twitter.com/Inkindi_Sabine?t=cAsbnidNN6nII-G5hMPEwA&s=09"> -->
+<!--    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/> -->
+<!--  </a> -->
   
- </div> 
+ <!--</div> -->
 
-   </div> 
+  <!-- </div> -->
 
 <!-- </div> <div id="badges" align="center"> -->
 <!-- <img src="https://komarev.com/ghpvc/?username=InkindiS&style=flat-square&color=blue" alt=""/> -->
