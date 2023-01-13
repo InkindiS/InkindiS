@@ -25,16 +25,17 @@
   
  
 
-  ### :woman_technologist: <b> About Me :</b>
+<!--   ### :woman_technologist: <b> About Me :</b> -->
+<!-- ### :woman_technologist: <b> About Me :</b> -->
   
   
   My name is <i> Inkindi Mutoni Sabine, </i>
 
-- :telescope: I have great enthusiasm in Cloud Computing and Internet of Things related projects.
+- 🐾 I am Curious Learner.
 
-- :seedling: I like to explore contents in tech field.
+<!-- - :seedling: I like to explore contents in tech field.
 
-- :zap: In my free time, I love educating myself about new trends in tech and motivating people on my socials.
+- :zap: In my free time, I love educating myself about new trends in tech and motivating people on my socials. -->
 
 - :mailbox: You can easily reach at me on [Email](mailto:inkindisabine@gmail.com) and on my socials: [LinkedIn](https://www.linkedin.com/in/inkindi-mutoni-sabine/) and [Twitter](https://twitter.com/Inkindi_Sabine?t=cAsbnidNN6nII-G5hMPEwA&s=09).
   
@@ -58,7 +59,8 @@
   <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InkindiS&layout=compact&theme=vision-friendly-dark)]-->
 <!--(https://github.com/anuraghazra/github-readme-stats)-->
 
-### :fire: My Stats :
+### 🦋 My Stats :
    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=InkindiS&theme=dark&background=000000)](https://git.io/streak-stats)
    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=InkindiS&layout=compact&theme=vision-friendly-dark)]
- (https://github.com/anuraghazra/github-readme-stats)
+ 
+ 
