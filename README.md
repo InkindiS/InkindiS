@@ -42,7 +42,7 @@
 
   ---
   
-  ### :hammer_and_wrench: Languages and Tools :
+   Languages and Tools :
   <div>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" title="PYTHON" alt="PYTHON" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
